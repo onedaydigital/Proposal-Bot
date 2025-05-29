@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/proposal_bot/__init__.py
+src/proposal_bot.egg-info/PKG-INFO
+src/proposal_bot.egg-info/SOURCES.txt
+src/proposal_bot.egg-info/dependency_links.txt
+src/proposal_bot.egg-info/requires.txt
+src/proposal_bot.egg-info/top_level.txt
